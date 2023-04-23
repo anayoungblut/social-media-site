@@ -134,4 +134,9 @@ body {
   audio {
     width: 400vw; 
    }
+
+   .caveat {
+    text-align: center; 
+    padding: 25px; 
+   }
  
